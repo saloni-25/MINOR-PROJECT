@@ -1,6 +1,6 @@
 """
 --------------------------------------- CYK Algorithm --------------------------------------
-Author: Saloni Krom
+Author: Saloni 
 Purpose: To check if a given string can be generated using a given Context-Free Grammar
 -------------------------------------------------------------------------------------------
 """
